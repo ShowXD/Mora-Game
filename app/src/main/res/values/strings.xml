@@ -2,4 +2,10 @@
     <string name="app_name">Mora-Game</string>
     <string name="MainTitle">Mora Game</string>
     <string name="MainButton">Start</string>
+    <string name="gameTitle">猜拳遊戲</string>
+    <string name="nameInput_hint">請輸入姓名</string>
+    <string name="radioButton_text1">剪刀</string>
+    <string name="radioButton_text2">石頭</string>
+    <string name="radioButton_text3">布</string>
+    <string name="buttonText">猜拳</string>
 </resources>
